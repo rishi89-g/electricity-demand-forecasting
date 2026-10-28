@@ -1,0 +1,17 @@
+Feature,Importance
+lag_1,0.6735642
+lag_2,0.22931813
+lag_24,0.03263605
+rolling_mean_24,0.02108075
+lag_168,0.009318824
+is_weekend,0.008298721
+hour,0.0071258903
+hour_sin,0.004794355
+hour_cos,0.004279346
+day_of_week,0.0035931184
+day_of_week_cos,0.0018543968
+temperature,0.0011374963
+month,0.00087483594
+day_of_week_sin,0.00087077514
+rolling_mean_168,0.0007165212
+day_of_month,0.0005365542

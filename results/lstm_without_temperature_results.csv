@@ -1,0 +1,2 @@
+Model,Test_MAE,Test_RMSE
+LSTM without temperature,351.39311153176834,417.54193492653155
